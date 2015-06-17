@@ -1,0 +1,42 @@
+{
+  "name": "google-panorama-tiles",
+  "version": "1.0.0",
+  "description": "normalizes tile data for Google Street View panoramas",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "street",
+    "view",
+    "tiles",
+    "tile",
+    "data",
+    "streetview",
+    "service",
+    "rows",
+    "columns",
+    "normalize"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/google-panorama-tiles.git"
+  },
+  "homepage": "https://github.com/Jam3/google-panorama-tiles",
+  "bugs": {
+    "url": "https://github.com/Jam3/google-panorama-tiles/issues"
+  }
+}
