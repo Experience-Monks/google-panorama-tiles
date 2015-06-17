@@ -6,7 +6,7 @@ Normalizes tile data for Google Street View tiles, typically used for "quilting"
 
 ```js
 var normalize = require('google-panorama-tiles')
-var panorama = require('google-panorama-by-id')
+var panorama = require('google-panorama-by-location')
 
 var zoom = 1
 var location = [ 51.50700703827454, -0.12791916931155356 ]
