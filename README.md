@@ -6,6 +6,10 @@ Normalizes tile data for Google Street View tiles, typically used for "quilting"
 
 Kudos to @thespite and [PanomNom.js](https://github.com/spite/PanomNom.js), which was used as reference here.
 
+## Example
+
+Here is an example using [google-panorama-by-location](https://github.com/Jam3/google-panorama-by-location) to get the StreetView data.
+
 ```js
 var normalize = require('google-panorama-tiles')
 var panorama = require('google-panorama-by-location')
