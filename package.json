@@ -1,6 +1,6 @@
 {
   "name": "google-panorama-tiles",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "normalizes tile data for Google Street View panoramas",
   "main": "index.js",
   "license": "MIT",
